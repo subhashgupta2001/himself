@@ -189,7 +189,7 @@ img{
 
 /* hero Section */
 #hero{
-    background-image: url(img/gggg.JPG);
+    background-image: url(img/ash.JPG);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -296,7 +296,7 @@ img{
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(img/screen.jpg);
+    background-image: url(img/lap.jpg);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
